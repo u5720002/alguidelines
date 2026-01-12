@@ -1,5 +1,5 @@
 # alguidelines.dev Site Source Repo
-
+This project is tested with BrowserStack.
 This is the source for the [alguidelines.dev](https://alguidelines.dev)
 website.
 # Business Central Design Patterns & Best Practices
